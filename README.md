@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CNatiDev
+- 👋 Hi, I’m @CNatiDev, Here you have a small part of my systems, which I was allowed to make public.
 - 👀 I’m interested in Game Developmemnt industry
 - 📫 How to reach me: cabau.natan.dev@gmail.com
 - 3-5 years in industry 
